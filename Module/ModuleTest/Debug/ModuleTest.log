@@ -1,0 +1,2 @@
+﻿  ModuleTest.cpp
+LINK : fatal error LNK1104: cannot open file 'C:\Code\TDD\BudgetMan\Debug\Module.lib'
